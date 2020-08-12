@@ -22,8 +22,11 @@ Lastly, our tool will also help the less fortunate, such as those with hearing d
 <img src="https://i.imgur.com/ragE2y4.png" width="75%" height="75%">
 When you encounter the above screen, click on the link and a new tab will be opened. 
 
-<img src="https://i.imgur.com/Z3LsX8M.png" width="50%" height="50%">
+<img src="https://i.imgur.com/Z3LsX8M.png" width="25%" height="25%">
 Click allow. A code will be generated. Copy the code and paste it into the empty field in the notebook. Press `Enter`.
+
+<img src = "https://github.com/ChanJianHao/SubMe/blob/master/resources/File.png?raw=true" width="75%" height="75%">
+After successfully mounting Google Drive, you will be able to access your directory by clicking on `File` on the left.
 
 
 ### Output
