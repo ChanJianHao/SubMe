@@ -15,11 +15,10 @@ Lastly, our tool will also help the less fortunate, such as those with hearing d
 - Follow the instructions on the notebook
 ### Uploading from Google Drive
 
-<img src="https://i.imgur.com/ragE2y4.png" width="250" height="250">
+<img src="https://i.imgur.com/ragE2y4.png" width="75%" height="75%">
 When you encounter the above screen, click on the link and a new tab will be opened. 
 
-[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/Z3LsX8M.png)]()
-
+<img src="https://i.imgur.com/Z3LsX8M.png" width="50%" height="50%">
 Click allow. A code will be generated. Copy the code and paste it into the empty field in the notebook. Press `Enter`.
 
 
