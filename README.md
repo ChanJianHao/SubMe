@@ -6,7 +6,7 @@ Our tool significantly speeds up the runtime of Autosub. As a free service, the 
 ## Getting Started
 - Click on <a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> to open the notebook in Google Colab. <br>
 - Follow the instructions on the notebook
-> Google Drive Authentication
+### Google Drive Authentication
 
 [![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/ragE2y4.png)]()
 When you encounter the above screen, click on the link and a new tab will be opened. 
