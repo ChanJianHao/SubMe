@@ -4,8 +4,17 @@ A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Go
 
 Our tool significantly speeds up the runtime of Autosub. As a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. Furthermore, without the need to provision and maintain expensive hardware, users will also enjoy greater cost savings. Moreover, our tool will also help the less fortunate, such as those with hearing disabilities, to decipher what is being spoken in videos and movies. 
 ## Getting Started
-<a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+- Click on <a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> to open the notebook in Google Colab. <br>
+- Follow the instructions on the notebook
+> Google Drive Authentication
+
+[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/ragE2y4.png)]()
+When you encounter the above screen, click on the link and a new tab will be opened. 
+
+[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/Z3LsX8M.png)]()
+
+Click allow. A code will be generated. Copy the code and paste it into the empty field in the notebook. Press `Enter`.
+
 
 ### Prerequisites
 
