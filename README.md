@@ -4,7 +4,7 @@ A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Go
 
 Our tool significantly speeds up the runtime of Autosub. As a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. Furthermore, without the need to provision and maintain expensive hardware, users will also enjoy greater cost savings. Moreover, our tool will also help the less fortunate, such as those with hearing disabilities, to decipher what is being spoken in videos and movies. 
 ## Getting Started
-<img src="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg">
+<a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
