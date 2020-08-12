@@ -1,6 +1,6 @@
 # SubMe 
 
-A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Google Colab. It leverages Google's computing power and GPU to automatically generate subtitles for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg`. This is done by first using Auditok for speech recognition and ffmpeg to splice the audio files into individual segments. The segments will be transcribed using several APIs, then translated into your desired language using py-googletrans. Additionally, there is also a feature which allows you to leverage Google's bandwidth to download torrents via magnets over a peer-to-peer connection. 
+A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Google Colab. It leverages Google's computing power and GPU to automatically generate subtitles for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` and `ffmpeg-normalize`. Speech recognition is then conducted on the pre-processed audio using `Auditok`, after which `ffmpeg` will be used to splice the audio files into individual segments. The segments will be transcribed using Google's Cloud Speech-to-Text API, then translated into your desired language using py-googletrans. Additionally, there is also a feature which allows you to leverage Google's bandwidth to download torrents via magnets over a peer-to-peer connection. 
 
 ## Getting Started
 
