@@ -2,6 +2,9 @@
 
 A cloud deployment of [Autosub](https://github.com/BingLingGroup/autosub) on Google Colab. It leverages Google's cloud computing clusters and GPU to automatically generate subtitles for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` and `ffmpeg-normalize`. Speech recognition is then conducted on the pre-processed audio using `Auditok`, after which `ffmpeg` will be used to splice the audio files into individual segments. The segments will be transcribed using Google's Cloud Speech-to-Text API, then translated into your desired language using `py-googletrans`. 
 
+Additionally, there is also an additional feature which allows for the downloading of torrents using magnet links over peer-to-peer connections. This is done using Google's servers, which are significantly faster than regular downloads over the Internet. 
+> Note: Although torrenting is not illegal, piracy IS illegal. We are strongly against the act of piracy and advise all our users not to do so.
+
 ## Why use our tool? 
 Firstly, its free! Other similar products, such as [Veed](https://www.veed.io/pricing), are paid services with restrictions on video length. We offer a completely free service with no restrictions on video length. 
 
