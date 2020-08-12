@@ -15,7 +15,7 @@ Lastly, our tool will also help the less fortunate, such as those with hearing d
 - Follow the instructions on the notebook
 ### Uploading from Google Drive
 
-[![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/ragE2y4.png)]()
+<img src="https://i.imgur.com/ragE2y4.png" width="250" height="250">
 When you encounter the above screen, click on the link and a new tab will be opened. 
 
 [![INSERT YOUR GRAPHIC HERE](https://i.imgur.com/Z3LsX8M.png)]()
@@ -32,16 +32,10 @@ When downloading, the output files will be your downloaded files. They too can b
 ## Authors
 We are two Singaporean university undergraduates with curiosity and passion for social causes. In particular, we are interested in using technology to benefit the less fortunate people in our society
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Chan Jian Hao** - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ng Wei Jie** - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## Acknowledgments
-
 * Hat tip to anyone whose code was used
 * Inspiration
 * etc
