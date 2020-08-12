@@ -5,7 +5,11 @@ A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Go
 ## Why use our tool? 
 Firstly, its free! Other similar products, such as ![Veed](https://www.veed.io/pricing), are paid services with restrictions on video length. We offer a completely free service with no restrictions on video length. 
 
-Secondly, our tool significantly speeds up the runtime of Autosub. As a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. Furthermore, without the need to provision and maintain expensive hardware, users will also enjoy greater cost savings. Moreover, our tool will also help the less fortunate, such as those with hearing disabilities, to decipher what is being spoken in videos and movies. 
+Secondly, our tool significantly speeds up the runtime of Autosub. As a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. 
+
+Thirdly, without the need to provision and maintain expensive hardware, users will also enjoy greater cost savings. Moreover, you will no longer have to worry about overheated machines or exorbitant electricity bills. 
+
+Lastly, our tool will also help the less fortunate, such as those with hearing disabilities, to decipher what is being spoken in videos and movies. 
 ## Getting Started
 - Click on <a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> to open the notebook in Google Colab. <br>
 - Follow the instructions on the notebook
