@@ -1,11 +1,11 @@
 # SubMe 
 
-A cloud deployment of ![Autosub](https://github.com/BingLingGroup/autosub) on Google Colab. It leverages Google's cloud computing clusters and GPU to automatically generate subtitles for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` and `ffmpeg-normalize`. Speech recognition is then conducted on the pre-processed audio using `Auditok`, after which `ffmpeg` will be used to splice the audio files into individual segments. The segments will be transcribed using Google's Cloud Speech-to-Text API, then translated into your desired language using `py-googletrans`. 
+A cloud deployment of [Autosub](https://github.com/BingLingGroup/autosub) on Google Colab. It leverages Google's cloud computing clusters and GPU to automatically generate subtitles for uploaded video files in various languages. Audio is first pre-processed using `ffmpeg` and `ffmpeg-normalize`. Speech recognition is then conducted on the pre-processed audio using `Auditok`, after which `ffmpeg` will be used to splice the audio files into individual segments. The segments will be transcribed using Google's Cloud Speech-to-Text API, then translated into your desired language using `py-googletrans`. 
 
 ## Why use our tool? 
-Firstly, its free! Other similar products, such as ![Veed](https://www.veed.io/pricing), are paid services with restrictions on video length. We offer a completely free service with no restrictions on video length. 
+Firstly, its free! Other similar products, such as [Veed](https://www.veed.io/pricing), are paid services with restrictions on video length. We offer a completely free service with no restrictions on video length. 
 
-Secondly, our tool significantly speeds up the runtime of Autosub. As a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. 
+Secondly, our tool significantly speeds up the runtime of Autosub. A [study](https://towardsdatascience.com/google-colab-how-does-it-compare-to-a-gpu-enabled-laptop-851c1e0a2ca9) has shown that despite being a free service, the GPU-enabled Google Colab environment (which is what we are using now) is significantly faster than a GPU-enabled MacBook Pro, Lenovo Legion and Lenovo Thinkpad, contributing to greater time savings. 
 
 Thirdly, without the need to provision and maintain expensive hardware, users will also enjoy greater cost savings. Moreover, you will no longer have to worry about overheated machines or exorbitant electricity bills. 
 
@@ -31,12 +31,13 @@ When downloading, the output files will be your downloaded files. They too can b
 ## Authors
 We are two Singaporean university undergraduates with curiosity and passion for social causes. In particular, we are interested in using technology to benefit the less fortunate people in our society
 
-* **Chan Jian Hao** - [PurpleBooth](https://github.com/PurpleBooth)
-* **Ng Wei Jie** - [PurpleBooth](https://github.com/PurpleBooth)
+* [**Chan Jian Hao**](https://github.com/ChanJianHao)
+* [**Ng Wei Jie**](https://github.com/HandsomeWJ)
 
 ## Acknowledgments
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* BingLingGroup(https://github.com/BingLingGroup)
+
+## Disclaimer
+In no event shall we be liable for any claims, penalties, loss, damage or expenses, howsoever arising, out of or in connection with your use of this tool, including, without limitation, direct or indirect loss, consequential loss or damage, loss of profit or goodwill, loss of data, loss arising from use or inability to use the tool, loss arising from any errors or omissions in the Website as a result of breach of contract, negligence, delict. Nothing in these Terms and Conditions shall exclude or limit our liability for death or personal injury caused by negligence or for any liability which cannot be excluded or limited under applicable law.
 
 
