@@ -36,7 +36,7 @@ When downloading, the output files will be your downloaded files. They too can b
 
 
 ## Authors
-We are two Singaporean university undergraduates with curiosity and passion for social causes. In particular, we are interested in using technology to benefit the less fortunate people in our society
+We are two Singaporean university undergraduates with curiosity and passion for social causes. In particular, we are interested in using technology to benefit the less fortunate people in our society.
 
 * [**Chan Jian Hao**](https://github.com/ChanJianHao)
 * [**Ng Wei Jie**](https://github.com/HandsomeWJ)
