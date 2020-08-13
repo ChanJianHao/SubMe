@@ -16,7 +16,7 @@ Fourthly, we have an easy to use interface. No need to concern yourself with the
 
 Lastly, our tool will also help the less fortunate, such as those with hearing disabilities, to decipher what is being spoken in videos and movies. 
 ## Getting Started
-- Click on <a href="https://colab.research.google.com/github/HandsomeWJ/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> to open the notebook in Google Colab. <br>
+- Click on <a href="https://colab.research.google.com/github/ChanJianHao/SubMe/blob/master/SubMe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> to open the notebook in Google Colab. <br>
 - Follow the instructions on the notebook
 ### Uploading from Google Drive
 
