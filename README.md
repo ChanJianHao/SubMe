@@ -32,8 +32,9 @@ After successfully mounting Google Drive, you will be able to access your direct
 
 ### Output
 
-When uploading, the output files will be in the form of subtitle files (`.srt`). They can be found in `/content/drive/My Drive/subme`.
-When downloading, the output files will be your downloaded files. They too can be found in `/content/drive/My Drive/subme`.
+When uploading, you will have to specify the extension of the output files (`srt`, `ass`, or `sub`). The output files can be found in the same location as the uploaded video file (default = `/content/drive/My Drive`).
+
+When downloading, the output files can be found in `/content/drive/My Drive/Torrent`.
 
 
 ## Authors
