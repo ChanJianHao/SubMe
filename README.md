@@ -32,7 +32,7 @@ After successfully mounting Google Drive, you will be able to access your direct
 
 ### Output
 
-When uploading, you will have to specify the extension of the output files (`srt`, `ass`, `sub`, `json` or `txt`). The output files can be found in the same location as the uploaded video file (default = `/content/drive/My Drive`).
+When uploading, you will have to specify the extension of the output files (`srt`, `ass`, `sub`, `json` or `txt`). The output files can be found in the same directory as the uploaded video file. For example, if you uploaded a video file from `/content/drive/My Drive`, the subtitle file will also be found here.
 
 When downloading, the output files can be found in `/content/drive/My Drive/Torrent`.
 
