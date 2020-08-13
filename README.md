@@ -48,6 +48,6 @@ We are two Singaporean university undergraduates with curiosity and passion for 
 * [BingLingGroup](https://github.com/BingLingGroup)
 
 ## Disclaimer
-In no event shall we be liable for any claims, penalties, loss, damage or expenses, howsoever arising, out of or in connection with your use of this tool, including, without limitation, direct or indirect loss, consequential loss or damage, loss of profit or goodwill, loss of data, loss arising from use or inability to use the tool, loss arising from any errors or omissions in the Website as a result of breach of contract, negligence, delict. Nothing in these Terms and Conditions shall exclude or limit our liability for death or personal injury caused by negligence or for any liability which cannot be excluded or limited under applicable law. 
+In no event shall we be liable for any claims, penalties, loss, damage or expenses, howsoever arising, out of or in connection with your use of this tool, including, without limitation, direct or indirect loss, consequential loss or damage, loss of profit or goodwill, loss of data, loss arising from use or inability to use the tool, loss arising from any errors or omissions in the tool as a result of breach of contract, negligence, delict. Nothing in these Terms and Conditions shall exclude or limit our liability for death or personal injury caused by negligence or for any liability which cannot be excluded or limited under applicable law. 
 
 
