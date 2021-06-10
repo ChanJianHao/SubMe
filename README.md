@@ -36,6 +36,9 @@ When uploading, you will have to specify the extension of the output files (`srt
 
 When downloading, the output files can be found in `/content/drive/My Drive/Torrent`.
 
+### Updates
+
+10 June 2021 - Subtitling/captioning of video is now possible. Just put the same language code for source and destination language and autosubs will generate subtitles for your video in its original language.
 
 ## Authors
 We are two Singaporean university undergraduates with curiosity and passion for social causes. In particular, we are interested in using technology to benefit the less fortunate people in our society.
