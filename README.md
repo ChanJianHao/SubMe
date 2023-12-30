@@ -1,3 +1,10 @@
+# Deprecated
+
+Hello everyone, sorry I haven't had time to maintain this project. I have moved on to working on [Faster-Whisper](https://github.com/ChanJianHao/Faster-Whisper-Google-Colab/) instead, which also does translation and transcribing of video files, please do check it out if is what you are looking for. It should be quite similar to SubMe feature wise.
+
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+
 
 <img src = "https://github.com/ChanJianHao/SubMe/blob/master/resources/SubMe.png?raw=true"><br>
 # SubMe 
